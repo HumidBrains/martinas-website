@@ -1,0 +1,109 @@
+{
+    "data": {
+        "allPosts": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "cjambl999rokc0146hdg004nq",
+                        "title": "Netflix is slowly teasing Black Mirror Season 4 with another trailer",
+                        "slug": "black-mirror-season-4",
+                        "coverImage": {
+                            "handle": "WqJlyRYTRCCJ9IWirQzR"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "cjamb63osrg800118dec8as5q",
+                        "title": "Kendall Jenner Is The World's Highest Paid Model This Year And This Is How Much She Made",
+                        "slug": "kendall-jenner-boi",
+                        "coverImage": {
+                            "handle": "FpbMLziJQWyIruTnJkhm"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "cjamapqa7r8l70183bxtt27nk",
+                        "title": "Apple releases update to fix critical macOS High Sierra security issue",
+                        "slug": "apple-security-fix",
+                        "coverImage": {
+                            "handle": "OO4hMDbbTMam1mf3miVP"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "cjamasxuur9nx01830u47v8v0",
+                        "title": "GraphCMS: Content Management System auf Basis von GraphQL vorgestellt",
+                        "slug": "graphcms-best-cms-ever",
+                        "coverImage": {
+                            "handle": "46AqDy8jTkWKzqttxPKz"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "cjambqp1hro740183tdjmj83d",
+                        "title": "Bitcoin Breaks the $11,000 Mark After Climbing by $3,000 in a Week",
+                        "slug": "bitcoin-is-the-shit-buy-buy-buy",
+                        "coverImage": {
+                            "handle": "Y1FxWcdDQT2B8r4DzPkr"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "cjajg8e00hd4d0183rpexn6fh",
+                        "title": "Is this cat a reincarnation of Alan Turing? This and more inside my newest blog post.",
+                        "slug": "is-this-cat-a-reincarnation-of-alan-turing",
+                        "coverImage": {
+                            "handle": "vuSXBV8T6WnkuB8pKNEg"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "cjajgcczhhiya01652mwnk27p",
+                        "title": "Why do cats sit on the keyboard when we work. No particular reason apparently.",
+                        "slug": "why-do-cats-sit-on-the-keyboard-when-we-work",
+                        "coverImage": {
+                            "handle": "sbNX94r5TBG6p8l7S4no"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "cjambbjhzrl770118they0dr8",
+                        "title": "This chilling Netflix documentary series is ideal to get you through this cold weekend",
+                        "slug": "shot-in-the-dark-netflix",
+                        "coverImage": {
+                            "handle": "z8zbBTCYTueEpoXyyvdA"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "cjajg4dybh8vx01462wn9s9kg",
+                        "title": "The very first post on this blog. The breed of the cat is probably munchkin if you were wondering.",
+                        "slug": "very-first-post-on-the-blog",
+                        "coverImage": {
+                            "handle": "MoHtDc6ARq6JXFICRd40"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "cjamawzskrdia0146914k3dog",
+                        "title": "This Is The Man Who Deactivated The President’s Twitter Account",
+                        "slug": "This-Is-The-Man-Who-Deactivated-The-President-Twitter-Account",
+                        "coverImage": {
+                            "handle": "lLq4ispWSuOafR2Yt9e1"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {}
+}

@@ -1,0 +1,29 @@
+{
+    "data": {
+        "allAuthors": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "cjajfxawnh2i10112hbcn9hqv",
+                        "name": "John Doe",
+                        "bibliography": "My name is John Doe, I'm dolor amet hoodie banh mi shoreditch, pok pok vape gentrify man bun vaporware yr. Bitters distillery PBR&B gentrify godard etsy pour-over bicycle rights twee live-edge. Butcher taxidermy hoodie locavore kickstarter mixtape.",
+                        "avatar": {
+                            "handle": "KaGtlszRQ6eyhOdGmGDW"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "cjamapmwer8kf01833xaeuh91",
+                        "name": "GoodBoy McGoodest",
+                        "bibliography": "He's a very talented guy, who just copies stuff from the interwebz",
+                        "avatar": {
+                            "handle": "SSAsH955ToqH8DXb9FC0"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {}
+}

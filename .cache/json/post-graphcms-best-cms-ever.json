@@ -1,0 +1,16 @@
+{
+    "data": {
+        "posts": {
+            "id": "cjamasxuur9nx01830u47v8v0",
+            "slug": "graphcms-best-cms-ever",
+            "title": "GraphCMS: Content Management System auf Basis von GraphQL vorgestellt",
+            "coverImage": {
+                "handle": "46AqDy8jTkWKzqttxPKz"
+            },
+            "content": "**GraphQL tut sich als Alternative beziehungsweise Konkurrent zum Programmierparadigma REST auf. Von den Vorteilen der bei Facebook entstandenen Abfragesprache überzeugt, bringt ein Start-up-Unternehmen ein CMS auf Basis von GraphQL auf den Markt.**\n\nDas Gießener Start-up-Unternehmen [GraphCMS](https://graphcms.com/) hat sein gleichnamiges Produkt [veröffentlicht](https://graphcms.com/blog/graphcms-is-on-product-hunt). Es handelt sich dabei um ein Headless-Content-Management-System, das auf der ursprünglich von Facebook entwickelten API-Abfragesprache GraphQL aufbaut, die viele Softwareentwickler als Alternative zum REST-Programmierparadigma (Representational State Transfer) ansehen.\n\n[GraphQL](http://graphql.org/) ist eine Reaktion auf Probleme beim Einsatz von Webservices mit REST. Diese sind zwar in der Client-Server-Kommunikation zumeist gesetzt, jedoch sind bei ihnen oft mehrere Requests nötig, um komplexere Daten abzufragen. Da so etwas gerade bei mobilen Anwendungen nicht erwünscht ist, werden mittlerweile oft spezielle Ressourcen für bestimmte Ansichten ergänzt, was jedoch zur stärkeren Koppelung zwischen Client und Server sowie zu Versionierungsproblemen bei APIs führen kann.\n\nGraphCMS ermöglicht es Entwicklern, auf GraphQL basierende Content-APIs zu bauen. Gleichzeitig erhalten Content-Ersteller Werkzeuge zum Generieren und Verwalten der Inhalte. Die gehosteten APIs lassen sich anschließend von Webseiten, Apps oder anderen Plattformen konsumieren. Seit Beginn der Betaphase haben anscheinend Tausende Entwickler das Produkt verwendet. Da es sich in andere Systeme und Architekturen integrieren lässt, verstehen seine Hersteller GraphCMS auch als Content-Microservice.\n"
+        }
+    },
+    "pathContext": {
+        "slug": "graphcms-best-cms-ever"
+    }
+}
